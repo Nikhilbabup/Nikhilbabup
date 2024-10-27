@@ -1,4 +1,4 @@
-<a href="https://novu.co/" target="_blank"><img src="https://github.com/Nikhilbabup/Nikhilbabup/blob/main/img/Software Developer.png" alt="Hi there, I'm Nikhil Babu P :wave:" /><a/>
+<a href="#" target="_blank"><img src="https://github.com/Nikhilbabup/Nikhilbabup/blob/main/img/Software%20Developer.jpg" alt="Hi there, I'm Nikhil Babu P :wave:" /><a/>
 <br>
 
 <h2 align="left">Welcome to my GitHub profile! 🙌</h2>
