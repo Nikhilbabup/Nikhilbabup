@@ -8,7 +8,7 @@
 - 👨‍💻 I have more than 2 years of professional experience
 - 🏢 Worked for companies like\*: Puthir Infotech, Applied payments, Webandcrafts
 - 💡 At work I use: TypeScript/JavaScript, NodeJS, NestJS, Electron, React, MongoDb
-- 🌍 Based in Kerala, India  🇮🇳
+- 🌍 Based in Kerala, India 🇮🇳
 - 👨 Single
 
 
@@ -129,7 +129,7 @@
 <h2 align="left">⚙️ What I use</h2>
 <ul>
   <li><b>OS:</b> Windows 11, Ubuntu 22.04</li>
-  <li><b>Laptop: </b> HP Pavilion , Processor: AMD Ryzen 5 5625U, RAM: 16GB</li>
+  <li><b>Laptop: </b> HP Pavilion , Processor: AMD Ryzen 5, RAM: 16GB</li>
 
   <li><b>Browser: </b> Chrome, Firefox</li>
   <li><b>Terminal: </b> Bash</li>
