@@ -6,7 +6,7 @@
 
 - 💼 Developer at <a href="https://webandcrafts.com/">Webandcrafts</a>
 - 👨‍💻 I have more than 2 years of professional experience
-- 🏢 Worked for companies like\*: Puthir Infotech, Applied payments, Webandcrafts
+- 🏢 Worked for companies like: Puthur Infotech, Applied payments, Webandcrafts
 - 💡 At work I use: TypeScript/JavaScript, NodeJS, NestJS, Electron, React, MongoDb
 - 🌍 Based in Kerala, India 🇮🇳
 - 👨 Single
