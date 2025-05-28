@@ -5,12 +5,11 @@
 <h3 align="left">✨ About Me</h2>
 
 - 💼 Developer at <a href="https://webandcrafts.com/">Webandcrafts</a>
-- 👨‍💻 I have more than 2 years of professional experience
+- 👨‍💻 I have more than 2.5+ years of professional experience
 - 🏢 Worked for companies like\*: Puthir Infotech, Applied payments, Webandcrafts
 - 💡 At work I use: TypeScript/JavaScript, NodeJS, NestJS, Electron, React, MongoDb
 - 🌍 Based in Kerala, India 🇮🇳
 - 👨 Single
-
 
 <h3 align="left">💬 Contact</h3>
 <p align="left">
@@ -135,4 +134,4 @@
   <li><b>Terminal: </b> Bash</li>
   <li><b>Code Editor:</b> VSCode</li>
   <li><b>To Stay Updated:</b> Twitter, daily.dev, Medium, web.dev, Youtube, Codrops, GitHub</li>
-</ul>	
+</ul>
